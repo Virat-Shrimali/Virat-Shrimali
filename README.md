@@ -11,7 +11,7 @@
 - **Software Engineering Virtual Experience**, J.P. Morgan (September 2024)  
   - 🛠️ Set up development environments, fixed repositories, and built visually appealing real-time data graphs using JPMorgan’s open-source library [Perspective](https://perspective.finos.org/).
   
-📄 **Certificate**: [View Here](#)  
+📄 **Certificate**: [View Here](https://drive.google.com/file/d/1zoXYQeVVbV_l9d_042uMicWJZxgOxtvc/view?pli=1)  
 
 ## 🧩 Projects:
 
