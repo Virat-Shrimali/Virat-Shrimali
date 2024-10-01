@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm **Virat Shrimali**!
 
-🎓 **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
+🎓Curently pusruing **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
 🔍 Passionate about **software development** and **puzzle games** that challenge the mind!
 
 ## 💼 Experience:
