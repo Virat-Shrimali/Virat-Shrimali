@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm **Virat Shrimali**!
 
-🎓Curently pursuing **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
+🎓Currently pursuing **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
 🔍 Passionate about **software development** and **puzzle games** that challenge the mind!
 
 ## 💼 Experience:
@@ -40,6 +40,14 @@ An interactive puzzle game:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+## 📈 GitHub Stats:
+
+![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Virat-Shrimali&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me:
 - 🌐 [GitHub](https://github.com/Virat-Shrimali)
