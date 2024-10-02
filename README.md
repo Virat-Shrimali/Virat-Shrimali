@@ -47,8 +47,6 @@ An interactive puzzle game:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Virat-Shrimali&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 Connect with Me:
 - 🌐 [GitHub](https://github.com/Virat-Shrimali)
 - 💼 [LinkedIn](https://linkedin.com/in/virat-shrimali)
