@@ -38,11 +38,18 @@ An interactive puzzle game:
 
 </div>
 
+To give your GitHub stats a more futuristic look, you can modify the `GitHub-readme-stats` widget by customizing the theme or adding a unique color palette to suit your vision. Here's an example update to your GitHub stats section:
+
+---
+
 ## 📈 GitHub Stats:
 
-![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical)
+![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10)
+
+---
+
 
 ## 📫 Connect with Me:
 - 🌐 [GitHub](https://github.com/Virat-Shrimali)
@@ -53,4 +60,4 @@ An interactive puzzle game:
 
 ---
 
-This layout places all icons in a neat grid. Let me know if you'd like further customization!
+
