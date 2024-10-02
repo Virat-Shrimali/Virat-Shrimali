@@ -43,8 +43,7 @@ An interactive puzzle game:
 ## 📈 GitHub Stats:
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a style="margin-right:10px;" href="https://github.com/Virat-Shrimali"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Top Languages" style="border-radius: 10px;"/> </a> 
-  <a href="https://github.com/Virat-Shrimali">
+  <a style="margin-right:20vw;" href="https://github.com/Virat-Shrimali"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Top Languages" style="border-radius: 10px;"/> </a> 
   <img src="https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Virat's GitHub stats" style="border-radius: 10px;"/> </a> </div>
 
 
