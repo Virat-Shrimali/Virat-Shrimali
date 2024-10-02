@@ -38,15 +38,20 @@ An interactive puzzle game:
 
 </div>
 
-To give your GitHub stats a more futuristic look, you can modify the `GitHub-readme-stats` widget by customizing the theme or adding a unique color palette to suit your vision. Here's an example update to your GitHub stats section:
-
 ---
 
 ## 📈 GitHub Stats:
 
-![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10)
+<div align="center">
+<a href="https://github.com/Virat-Shrimali">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Top Languages" height="200"/>
+</a>
+<a href="https://github.com/Virat-Shrimali">
+  <img src="https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Virat's GitHub stats" height="200"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10)
+</div>
+
 
 ---
 
