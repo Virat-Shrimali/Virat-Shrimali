@@ -1,9 +1,8 @@
-
 ---
 
 # 👋 Hello, I'm **Virat Shrimali**!
 
-🎓Curently pusruing **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
+🎓Curently pursuing **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
 🔍 Passionate about **software development** and **puzzle games** that challenge the mind!
 
 ## 💼 Experience:
@@ -47,5 +46,6 @@ An interactive puzzle game:
 - 💼 [LinkedIn](https://linkedin.com/in/virat-shrimali)
 - 📧 [viratns05@gmail.com](mailto:viratns05@gmail.com)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Virat-Shrimali&color=blue&style=flat-square)
 
+---
