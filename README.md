@@ -1,5 +1,3 @@
-Here's the updated format with all the icons displayed in a grid layout:
-
 ---
 
 # 👋 Hello, I'm **Virat Shrimali**!
