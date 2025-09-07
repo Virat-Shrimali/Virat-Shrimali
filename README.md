@@ -47,14 +47,32 @@
 
 ---
 
+Got it 🚀 You don’t want the plain table — you want a **fun, interactive-looking skills section**.
+I can redesign your **Skills** section with **badges + grouped icon clouds** instead of a table. This way it feels more modern and eye-catching.
+
+Here’s how your README would look:
+
+---
+
 ## 🛠️ Skills:
 
-### 🖥️ Programming & Development
+### 🚀 Languages
 
-* **Languages**: Python, C++, JavaScript, Java
-* **Web Tech**: HTML, CSS, ReactJS, Node.js
-* **Tools**: Git, GitHub, VS Code, LaTeX
-* **Coursework**: Data Structures & Algorithms, OS, DBMS, OOP, Computer Organization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,latex" />
+</p>
 
 ---
 
