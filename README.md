@@ -32,13 +32,14 @@
 ### 🎲 Board Games Collection (Research Internship @ IIT Gandhinagar)
 
 <p align="center">
-  🔹 <a href="https://github.com/Virat-Shrimali/dont-say-13-html">Don’t Say 13</a> &nbsp;|&nbsp;
-  🔹 <a href="https://github.com/Virat-Shrimali/corners-game">Corners</a> &nbsp;|&nbsp;
-  🔹 <a href="https://github.com/Virat-Shrimali/Farkle">Farkle</a> &nbsp;|&nbsp;
+  🔹 <a href="https://github.com/Virat-Shrimali/dont-say-13">Don’t Say 13</a> &nbsp;|&nbsp;
+  🔹 <a href="https://github.com/Virat-Shrimali/dont-say-13-generalized">Don’t Say 13 (Generalized)</a> &nbsp;|&nbsp;
+  🔹 <a href="https://github.com/Virat-Shrimali/corners-game-with-squareSelect">Corners</a> &nbsp;|&nbsp;
+<!--   🔹 <a href="https://github.com/Virat-Shrimali/Farkle">Farkle</a> &nbsp;|&nbsp; -->
   🔹 <a href="https://github.com/Virat-Shrimali/Amazons">Amazons</a> &nbsp;|&nbsp;
-  🔹 <a href="https://github.com/Virat-Shrimali/Tac-Tix">Tac Tix</a> &nbsp;|&nbsp;
-  🔹 <a href="https://github.com/Virat-Shrimali/Tablut">Tablut</a> &nbsp;|&nbsp;
-  🔹 <a href="https://github.com/Virat-Shrimali/Hold-That-Line">Hold That Line</a>
+<!--   🔹 <a href="https://github.com/Virat-Shrimali/Tac-Tix">Tac Tix</a> &nbsp;|&nbsp; -->
+  🔹 <a href="https://github.com/Virat-Shrimali/tablut-game">Tablut</a> &nbsp;|&nbsp;
+<!--   🔹 <a href="https://github.com/Virat-Shrimali/Hold-That-Line">Hold That Line</a> -->
 </p>
 
 ---
