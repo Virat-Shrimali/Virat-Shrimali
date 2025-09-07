@@ -2,39 +2,71 @@
 
 # 👋 Hello, I'm **Virat Shrimali**!
 
-🎓Currently pursuing **B.Tech in Mathematics and Computing** from [Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT)](https://www.daiict.ac.in/), Gujarat, India.  
-🔍 Passionate about **software development** and **puzzle games** that challenge the mind!
+🎓 **B.Tech in Mathematics and Computing** at [DA-IICT, Gandhinagar](https://www.daiict.ac.in/), India
+🔍 Passionate about **software development**, **puzzle/game design**, and **mathematical problem solving**!
+
+---
 
 ## 💼 Experience:
-- **Member**, Electronics Hobby Centre at DAIICT (April 2024 – Present)
-- **Software Engineering Virtual Experience**, J.P. Morgan (September 2024)  
-  - 🛠️ Set up development environments, fixed repositories, and built visually appealing real-time data graphs using JPMorgan’s open-source library [Perspective](https://perspective.finos.org/).
-  
-📄 **Certificate**: [View Here](https://drive.google.com/file/d/1zoXYQeVVbV_l9d_042uMicWJZxgOxtvc/view?pli=1)  
+
+* **Summer Research Intern**, IIT Gandhinagar *(May 2025 – July 2025)*
+
+  * Worked under **Prof. Jyothi Krishnan** on board game analysis and redesign.
+  * Implemented games like **Order & Chaos, Amazons, Farkle, Corners, Don’t Say 13, Tac Tix, Tablut, Hold That Line**.
+  * Coded digital versions using **ReactJS**, applied **graph theory & combinatorics** for difficulty scaling.
+  * Created silent **rule-explainer videos** for clarity.
+  * 📄 [Work Showcase](https://docs.google.com/document/d/1XLX6OxbSEfbs7sw-ACm8_ANe2vhTzD5qKnSdJxaYLvw/edit?usp=sharing)
+
+* **Participant**, ACM India Summer School on Quantum Circuits and Algorithms *(June 2025)*
+
+  * Selected through national-level screening for a **2-week intensive school** at JUIT, Solan.
+  * Learned **quantum gates, state evolution, Grover’s Algorithm, Fourier Transform, and quantum cryptography**.
+  * Hands-on sessions with **Qiskit** and quantum circuit design.
+
+* **Software Engineering Virtual Experience**, J.P. Morgan *(Sep 2024)*
+
+  * Debugged and set up data visualization repos.
+  * Built real-time financial data dashboards with **Perspective** library.
+  * 📄 [Certificate](https://drive.google.com/file/d/1zoXYQeVVbV_l9d_042uMicWJZxgOxtvc/view?usp=sharing)
+
+* **Volunteer**, FSTTCS 2024 (IIT Gandhinagar) *(Dec 2024)*
+
+  * Assisted in organizing **talks & workshops** at a premier Theoretical CS conference.
+  * Gained exposure to **cutting-edge research in computer science**.
+
+---
 
 ## 🧩 Projects:
 
-### 🎮 [The Almost Impossible Chessboard Puzzle](https://chessboard-puzzle-virat-shrimalis-projects.vercel.app/) 
-An interactive puzzle game:
-- 👨‍💻 Developed using **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **Node.js**
-- 💡 Players flip coins and guess key locations!
-- 🌐 **Responsive Design** with real-time game updates.
-- 🔗 [Explore the Code](https://github.com/Virat-Shrimali/chessboard-puzzle)
+### 🎮 [The Almost Impossible Chessboard Puzzle](https://chessboard-puzzle-virat-shrimalis-projects.vercel.app/)
+
+* Puzzle game where one player encodes a key using coin flips and another decodes it.
+* Developed using **ReactJS, Node.js, HTML, CSS, JavaScript**.
+* Responsive design with animations and real-time gameplay logic.
+* 🔗 [Explore the Code](https://github.com/Virat-Shrimali/chessboard-puzzle)
+
+---
 
 ## 🛠️ Skills:
 
-### 🖥️ Programming Languages, Web Development, and Tools:
+### 🖥️ Programming & Development
 
-<div align="center">
+* **Languages**: Python, C++, JavaScript, Java
+* **Web Tech**: HTML, CSS, ReactJS, Node.js
+* **Tools**: Git, GitHub, VS Code, LaTeX
+* **Coursework**: Data Structures & Algorithms, OS, DBMS, OOP, Computer Organization
 
-| Languages | Web Development | Tools & Technologies |
-|:---------:|:---------------:|:--------------------:|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
+---
 
-</div>
+## 🏆 Achievements:
+
+* 🎖️ Selected as **Summer Research Intern at IIT Gandhinagar (2025)**
+* 🎖️ Selected for **ACM India Summer School on Quantum Circuits and Algorithms (2025)**
+* 🎖️ **JEE Mains 2023**: 99.01 percentile (Top 1% nationwide)
+* 🎖️ Completed NPTEL+ Program: **Old and New Tricks with Cards** *(Mar 2025)*
+
+  * Explored **mathematical card tricks** combining math, psychology, and performance art.
+  * 📄 [Certificate](https://drive.google.com/file/d/1W27CjJHHNJmL7A4i5fK2vLm0KD37JsCd/view)
 
 ---
 
@@ -44,17 +76,14 @@ An interactive puzzle game:
   <a style="margin-right:20vw;" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Top Languages" style="border-radius: 10px;"/> </a> 
   <img src="https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Virat's GitHub stats" style="border-radius: 10px;"/> </a> </div>
 
-
 ---
-
 
 ## 📫 Connect with Me:
-- 🌐 [GitHub](https://github.com/Virat-Shrimali)
-- 💼 [LinkedIn](https://linkedin.com/in/virat-shrimali)
-- 📧 [viratns05@gmail.com](mailto:viratns05@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Virat-Shrimali&color=blue&style=flat-square)
+* 🌐 [GitHub](https://github.com/Virat-Shrimali)
+* 💼 [LinkedIn](https://linkedin.com/in/virat-shrimali)
+* 📧 [viratns05@gmail.com](mailto:viratns05@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Virat-Shrimali\&color=blue\&style=flat-square)
 
 ---
-
-
