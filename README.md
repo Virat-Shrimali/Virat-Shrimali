@@ -23,12 +23,6 @@
   * Learned **quantum gates, state evolution, Grover’s Algorithm, Fourier Transform, and quantum cryptography**.
   * Hands-on sessions with **Qiskit** and quantum circuit design.
 
-* **Software Engineering Virtual Experience**, J.P. Morgan *(Sep 2024)*
-
-  * Debugged and set up data visualization repos.
-  * Built real-time financial data dashboards with **Perspective** library.
-  * 📄 [Certificate](https://drive.google.com/file/d/1zoXYQeVVbV_l9d_042uMicWJZxgOxtvc/view?usp=sharing)
-
 * **Volunteer**, FSTTCS 2024 (IIT Gandhinagar) *(Dec 2024)*
 
   * Assisted in organizing **talks & workshops** at a premier Theoretical CS conference.
