@@ -41,13 +41,6 @@
 
 ---
 
-Got it 🚀 You don’t want the plain table — you want a **fun, interactive-looking skills section**.
-I can redesign your **Skills** section with **badges + grouped icon clouds** instead of a table. This way it feels more modern and eye-catching.
-
-Here’s how your README would look:
-
----
-
 ## 🛠️ Skills:
 
 ### 🚀 Languages
