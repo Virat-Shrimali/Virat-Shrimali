@@ -17,7 +17,7 @@
   * Created silent **rule-explainer videos** for clarity.
   * 📄 [Work Showcase](https://docs.google.com/document/d/1XLX6OxbSEfbs7sw-ACm8_ANe2vhTzD5qKnSdJxaYLvw/edit?usp=sharing)
 
-* **Participant**, ACM India Summer School on Quantum Circuits and Algorithms *(June 2025)*
+* **Mentee**, ACM India Summer School on Quantum Circuits and Algorithms *(June 2025)*
 
   * Selected through national-level screening for a **2-week intensive school** at JUIT, Solan.
   * Learned **quantum gates, state evolution, Grover’s Algorithm, Fourier Transform, and quantum cryptography**.
