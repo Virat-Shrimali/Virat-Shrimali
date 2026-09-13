@@ -160,13 +160,12 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 
 ---
 
-## 📊 GitHub
-
 ## 📊 GitHub Stats
 
-[![Virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical)](https://github.com/Virat-Shrimali)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical)](https://github.com/Virat-Shrimali)
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
 ---
 
 ## 📫 Connect
