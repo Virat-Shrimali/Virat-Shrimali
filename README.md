@@ -162,10 +162,13 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="./profile/top-langs.svg" width="48%" />
+  <img src="./profile/stats.svg" width="48%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="48%" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📫 Connect
@@ -174,8 +177,10 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virat--Shrimali-0A66C2?style=flat\&logo=linkedin)](https://linkedin.com/in/virat-shrimali)
 [![Email](https://img.shields.io/badge/Email-viratns05%40gmail.com-EA4335?style=flat\&logo=gmail)](mailto:viratns05@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Virat-Shrimali\&color=blue\&style=flat-square)
 
+<p align="center">
+  <img src="./profile/views.svg" alt="Profile Views" />
+</p>
 ---
 
 > **Build it. Understand it. Measure it.**
