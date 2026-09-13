@@ -162,10 +162,9 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a style="margin-right:20vw;" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virat-Shrimali&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Top Languages" style="border-radius: 10px;"/> </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&icon_color=00ffcc&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10" alt="Virat's GitHub stats" style="border-radius: 10px;"/> </a> </div>
 ---
 
 ## 📫 Connect
@@ -173,6 +172,8 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 [![GitHub](https://img.shields.io/badge/GitHub-Virat--Shrimali-181717?style=flat\&logo=github)](https://github.com/Virat-Shrimali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Virat--Shrimali-0A66C2?style=flat\&logo=linkedin)](https://linkedin.com/in/virat-shrimali)
 [![Email](https://img.shields.io/badge/Email-viratns05%40gmail.com-EA4335?style=flat\&logo=gmail)](mailto:viratns05@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Virat-Shrimali\&color=blue\&style=flat-square)
 
 ---
 
