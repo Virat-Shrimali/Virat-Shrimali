@@ -162,8 +162,6 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="./profile/stats.svg" width="48%" alt="GitHub Stats" />
   <img src="./profile/top-langs.svg" width="48%" alt="Top Languages" />
