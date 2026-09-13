@@ -179,7 +179,7 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 
 
 <p align="center">
-  <img src="./profile/views.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Virat-Shrimali&label=Profile+Views&color=00ffcc&style=flat-square" alt="Profile Views" />
 </p>
 ---
 
