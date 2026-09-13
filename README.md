@@ -181,6 +181,10 @@ I was also selected for the **ACM India Summer School on Quantum Circuits and Al
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Virat-Shrimali&label=Profile+Views&color=00ffcc&style=flat-square" alt="Profile Views" />
 </p>
+
 ---
 
-> **Build it. Understand it. Measure it.**
+> *"In God we trust; all others must bring data."*  
+> — **W. Edwards Deming**
+
+
