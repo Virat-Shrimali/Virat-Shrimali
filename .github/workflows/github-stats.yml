@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,13 +14,13 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Virat-Shrimali&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc&border_color=30363d&border_radius=10
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc&border_color=30363d&border_radius=10
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Virat-Shrimali&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=30363d&border_radius=10
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
