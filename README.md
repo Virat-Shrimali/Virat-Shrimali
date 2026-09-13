@@ -52,8 +52,7 @@ The project includes:
 * Unit tests and reusable Python components
 * A no-code Streamlit experimentation interface
 
-→ [Repository](https://github.com/Virat-Shrimali/smartGrid---Data-Imputation-techniques-streamlit-dashboard) · [Live Demo](· [Live Demo](https://smartgrid---data-imputation-techniques-app-dashboardgit-cutktt.streamlit.app)
-)
+→ [Repository](https://github.com/Virat-Shrimali/smartGrid---Data-Imputation-techniques-streamlit-dashboard) · [Live Demo](https://smartgrid---data-imputation-techniques-app-dashboardgit-cutktt.streamlit.app)
 
 ---
 
